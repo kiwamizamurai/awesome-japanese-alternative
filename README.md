@@ -17,7 +17,7 @@ A list of japanese projects with links to contribute or donate.
 ### SNS
 
 - [Note](https://note.com)
-- [しずかなインターネット](https://sizu.me/nanatsugi)
+- [しずかなインターネット](https://sizu.me)
 
 ### Video
 
